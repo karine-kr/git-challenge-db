@@ -7,4 +7,8 @@ E como dito no desafio
 
 Esse arquivo contém conflitos. Primeiro, ajuste o que está conflitando.
 
-alt text
+Adicionando comandos git
+git status
+git add README.md
+git commit -m "chore/atualizando-texto"
+git push
