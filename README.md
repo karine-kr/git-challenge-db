@@ -12,4 +12,4 @@ GIT
 
 **Uso**
 Para iniciar o servidor de desenvolvimento:
-Pode escolher terminal de preferencia.
+Pode escolher terminal de preferencia, uma sugestão seria Terminal Bash e Powershell
