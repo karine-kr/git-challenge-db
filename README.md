@@ -8,7 +8,7 @@ GIT
 
 **Instalação**
 1. Clone este repositório: https://github.com/karine-kr/git-challenge-db.git
-2. Divirta-se colabortando com melhorias.
+2. Divirta-se colaborando com melhorias.
 
 **Uso**
 Para iniciar o servidor de desenvolvimento:
