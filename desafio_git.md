@@ -52,3 +52,5 @@ Ex: `feature/nova-funcionalidade`
 - Lembre-se: deve ser corrigido o conflito em uma branch de correção. Após a correção, deve ser feito o PR para a branch de desenvolvimento e não deve ser diretamente na main.
 
 Boa sorte com o desafio! 👋
+
+Adicionando este comentário!

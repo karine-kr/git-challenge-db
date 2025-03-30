@@ -217,3 +217,5 @@ Isso evita conflitos e mantém suas mudanças alinhadas com o projeto.
 [Trabalhar com bifurcações](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks)
 
 [Sobre conflitos de mesclagem](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+
+Adicionando este comentário!
